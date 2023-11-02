@@ -1,0 +1,28 @@
+body{
+		background-image: url("luana img/doceback.jpg")
+}
+		 
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin:20;
+  padding: 0px ;
+  color: #FF1493;
+  text-shadow: 3px 3px 1px black;
+}
+p{
+	font-size:20px;
+	color: #8B008B;
+}
+h2 {
+  font-size:40px;
+  color: #DA70D6;
+  text-shadow: 3px 3px 1px black;
+}		
+		footer{
+	font-size:10px;
+	color: #8B008B;
+		
+			
